@@ -7,6 +7,7 @@ class Person extends Corp{
   String? nom;
   String? prenom;
   String? sexe;
+  String? postnom;
  
 
   Person({this.nom,this.prenom,this.sexe}):super(fesse: 'un seul');
