@@ -9,7 +9,7 @@ main(){
  int age=20;
  bool majeur=true;
  double poids= 75.6;
- const beau=true;
+ const beau=false;
 
  var isMaj=majeur ? "Tu es majeur" : "tu es mineur";
 //  print("Bonjour ${name} c'est toi ${secondName.toUpperCase()} tu as ${age} ans et tu as ${poids} kg et tu es ${isMaj}");
